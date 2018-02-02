@@ -2,7 +2,7 @@ var w = 1000;
 var h = 600;
 var linkDistance=200;
 
-var colors = d3.schemeCategory10();
+var colors = d3.schemeCategory10;
 
 var dataset = {
 
